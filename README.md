@@ -1,2 +1,2 @@
 # Woofstagram
-Projeto desenvolvido na disciplina de Interface.
+Projeto desenvolvido na disciplina de Interface, usando React Native.
